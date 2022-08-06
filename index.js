@@ -1,11 +1,6 @@
 const express = require("express");
 const app = express();
 const connectDB = require("./configs/connectDB");
-const multer = require("multer");
-const fs = require("fs");
-const unzipper = require("unzipper");
-const xml2js = require('xml2js');
-const fileController = require("./fileController");
 
 const documentRouter = require("./routes/document.route");
 

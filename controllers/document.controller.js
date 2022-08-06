@@ -14,13 +14,13 @@ module.exports = {
     // console.log(fileName, path, ext);
 
     fs.createReadStream(req.file.path).pipe(
-      unzipper.Extract({ path: `./xmls/${fileName}/` })
+      unzipper.Extract({ path: `./public/xmls/${fileName}/` })
     );
 
     const documentXML = fs
-      .readFileSync(`./xmls/${fileName}/word/document.xml`)
+      .readFileSync(`./public/xmls/${fileName}/word/document.xml`)
     const appXML = fs
-      .readFileSync(`./xmls/${fileName}/docProps/app.xml`)
+      .readFileSync(`./public/xmls/${fileName}/docProps/app.xml`)
 
     const documentJSON = await xml2js.parseStringPromise(documentXML);
     const appJSON = await xml2js.parseStringPromise(appXML);
@@ -35,7 +35,6 @@ module.exports = {
     });
     let segments = [];
     documentJSON['w:document']['w:body'][0]["w:p"].forEach(async(r) => {
-      console.log(r['w:r'][0]['w:rPr'][0]['w:b'] ? true : false);
       let segment = new Segment({
         document: document._id,
         text: r['w:r'][0]['w:t'][0],

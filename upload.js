@@ -6,7 +6,6 @@ const storage = multer.diskStorage({
   },
   filename: (req, file, cb) => {
     const [name, ext] = file.originalname.split(".");
-    console.log(ext);
     cb(null, name + ".zip");
   },
 });
