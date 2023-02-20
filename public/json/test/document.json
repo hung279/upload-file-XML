@@ -1,0 +1,1059 @@
+{
+    "w:document": {
+        "_attributes": {
+            "xmlns:o": "urn:schemas-microsoft-com:office:office",
+            "xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+            "xmlns:v": "urn:schemas-microsoft-com:vml",
+            "xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+            "xmlns:w10": "urn:schemas-microsoft-com:office:word",
+            "xmlns:wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
+            "xmlns:wps": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+            "xmlns:wpg": "http://schemas.microsoft.com/office/word/2010/wordprocessingGroup",
+            "xmlns:mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+            "xmlns:wp14": "http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing",
+            "xmlns:w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+            "mc:Ignorable": "w14 wp14"
+        },
+        "w:body": {
+            "w:p": [
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": ""
+                    },
+                    "w:r": {
+                        "w:rPr": "",
+                        "w:t": "Tesssstttttttt."
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:b": [
+                                "",
+                                ""
+                            ],
+                            "w:bCs": ""
+                        }
+                    },
+                    "w:r": {
+                        "w:rPr": {
+                            "w:b": "",
+                            "w:bCs": ""
+                        },
+                        "w:t": "Page 1."
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:b": [
+                                "",
+                                ""
+                            ],
+                            "w:bCs": ""
+                        }
+                    },
+                    "w:r": {
+                        "w:rPr": {
+                            "w:b": "",
+                            "w:bCs": ""
+                        },
+                        "w:t": "Chữ đậm."
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:i": [
+                                "",
+                                ""
+                            ],
+                            "w:iCs": ""
+                        }
+                    },
+                    "w:r": {
+                        "w:rPr": {
+                            "w:i": "",
+                            "w:iCs": ""
+                        },
+                        "w:t": "Chữ Nghiêng."
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:u": {
+                                "_attributes": {
+                                    "w:val": "single"
+                                }
+                            }
+                        }
+                    },
+                    "w:r": {
+                        "w:rPr": {
+                            "w:u": {
+                                "_attributes": {
+                                    "w:val": "single"
+                                }
+                            }
+                        },
+                        "w:t": "Có gạch chân."
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:strike": ""
+                        }
+                    },
+                    "w:r": {
+                        "w:rPr": {
+                            "w:strike": ""
+                        },
+                        "w:t": "Strike."
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:strike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            },
+                            "w:dstrike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            }
+                        }
+                    },
+                    "w:r": {
+                        "w:rPr": {
+                            "w:strike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            },
+                            "w:dstrike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            }
+                        },
+                        "w:t": "Đây có hẳn 1 câu. Test thử xem như thế nào. Cứ tách ra thôi."
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:strike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            },
+                            "w:dstrike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            }
+                        }
+                    },
+                    "w:r": {
+                        "w:rPr": {
+                            "w:strike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            },
+                            "w:dstrike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:strike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            },
+                            "w:dstrike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            }
+                        }
+                    },
+                    "w:r": {
+                        "w:rPr": {
+                            "w:strike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            },
+                            "w:dstrike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": {
+                            "w:strike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            },
+                            "w:dstrike": {
+                                "_attributes": {
+                                    "w:val": "false"
+                                }
+                            }
+                        }
+                    },
+                    "w:r": [
+                        {
+                            "w:rPr": {
+                                "w:strike": {
+                                    "_attributes": {
+                                        "w:val": "false"
+                                    }
+                                },
+                                "w:dstrike": {
+                                    "_attributes": {
+                                        "w:val": "false"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "w:br": {
+                                "_attributes": {
+                                    "w:type": "page"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": ""
+                    },
+                    "w:r": [
+                        {
+                            "w:rPr": "",
+                            "w:t": "page 2 nay"
+                        },
+                        {
+                            "w:br": {
+                                "_attributes": {
+                                    "w:type": "page"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": ""
+                    },
+                    "w:r": [
+                        {
+                            "w:rPr": "",
+                            "w:t": "page 3 luon"
+                        },
+                        {
+                            "w:br": {
+                                "_attributes": {
+                                    "w:type": "page"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "w:pPr": {
+                        "w:pStyle": {
+                            "_attributes": {
+                                "w:val": "LOnormal"
+                            }
+                        },
+                        "w:rPr": ""
+                    },
+                    "w:r": {
+                        "w:rPr": "",
+                        "w:t": "page 4"
+                    }
+                }
+            ],
+            "w:tbl": {
+                "w:tblPr": {
+                    "w:tblW": {
+                        "_attributes": {
+                            "w:w": "9026",
+                            "w:type": "dxa"
+                        }
+                    },
+                    "w:jc": {
+                        "_attributes": {
+                            "w:val": "left"
+                        }
+                    },
+                    "w:tblInd": {
+                        "_attributes": {
+                            "w:w": "0",
+                            "w:type": "dxa"
+                        }
+                    },
+                    "w:tblCellMar": {
+                        "w:top": {
+                            "_attributes": {
+                                "w:w": "55",
+                                "w:type": "dxa"
+                            }
+                        },
+                        "w:left": {
+                            "_attributes": {
+                                "w:w": "55",
+                                "w:type": "dxa"
+                            }
+                        },
+                        "w:bottom": {
+                            "_attributes": {
+                                "w:w": "55",
+                                "w:type": "dxa"
+                            }
+                        },
+                        "w:right": {
+                            "_attributes": {
+                                "w:w": "55",
+                                "w:type": "dxa"
+                            }
+                        }
+                    }
+                },
+                "w:tblGrid": {
+                    "w:gridCol": [
+                        {
+                            "_attributes": {
+                                "w:w": "2256"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "w:w": "2257"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "w:w": "2256"
+                            }
+                        },
+                        {
+                            "_attributes": {
+                                "w:w": "2256"
+                            }
+                        }
+                    ]
+                },
+                "w:tr": [
+                    {
+                        "w:trPr": "",
+                        "w:tc": [
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:top": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "STT"
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2257",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:top": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": {
+                                            "_text": "Tên ",
+                                            "_attributes": {
+                                                "xml:space": "preserve"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:top": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "Tuổi"
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:top": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:right": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "Lớp"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "w:trPr": "",
+                        "w:tc": [
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2257",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "Hưng"
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "20"
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:right": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "KTPM"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "w:trPr": "",
+                        "w:tc": [
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "2"
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2257",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "Tài"
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "20"
+                                    }
+                                }
+                            },
+                            {
+                                "w:tcPr": {
+                                    "w:tcW": {
+                                        "_attributes": {
+                                            "w:w": "2256",
+                                            "w:type": "dxa"
+                                        }
+                                    },
+                                    "w:tcBorders": {
+                                        "w:left": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:bottom": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        },
+                                        "w:right": {
+                                            "_attributes": {
+                                                "w:val": "single",
+                                                "w:sz": "2",
+                                                "w:space": "0",
+                                                "w:color": "000000"
+                                            }
+                                        }
+                                    }
+                                },
+                                "w:p": {
+                                    "w:pPr": {
+                                        "w:pStyle": {
+                                            "_attributes": {
+                                                "w:val": "TableContents"
+                                            }
+                                        },
+                                        "w:rPr": ""
+                                    },
+                                    "w:r": {
+                                        "w:rPr": "",
+                                        "w:t": "KHMT"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "w:sectPr": {
+                "w:type": {
+                    "_attributes": {
+                        "w:val": "nextPage"
+                    }
+                },
+                "w:pgSz": {
+                    "_attributes": {
+                        "w:w": "11906",
+                        "w:h": "16838"
+                    }
+                },
+                "w:pgMar": {
+                    "_attributes": {
+                        "w:left": "1440",
+                        "w:right": "1440",
+                        "w:header": "0",
+                        "w:top": "1440",
+                        "w:footer": "0",
+                        "w:bottom": "1440",
+                        "w:gutter": "0"
+                    }
+                },
+                "w:pgNumType": {
+                    "_attributes": {
+                        "w:start": "1",
+                        "w:fmt": "decimal"
+                    }
+                },
+                "w:formProt": {
+                    "_attributes": {
+                        "w:val": "false"
+                    }
+                },
+                "w:textDirection": {
+                    "_attributes": {
+                        "w:val": "lrTb"
+                    }
+                },
+                "w:docGrid": {
+                    "_attributes": {
+                        "w:type": "default",
+                        "w:linePitch": "100",
+                        "w:charSpace": "4096"
+                    }
+                }
+            }
+        }
+    }
+}
